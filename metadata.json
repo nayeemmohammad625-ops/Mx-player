@@ -1,0 +1,6 @@
+{
+  "name": "NovaPlay",
+  "description": "Mobile-first MX-style video player with AI-generated multilingual captions, gesture controls, live sync, and SRT/VTT/ASS editing and export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
